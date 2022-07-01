@@ -9,4 +9,15 @@ Ubicacion: Abasto, Buenos Aires - Argentina.
 LinkedIn: https://www.linkedin.com/in/gabriel-goliger 
 Github: https://www.github.com/gabrgoli 
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+### Hola 👋, Mi nombre es Gabriel Goliger
+#### soy Full Stack Web Developr
+![soy Full Stack Web Developr](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Habilidades: REACT.JS / JavaScript / MongoDB / HTML / NODE.JS / Arduino/C 
+
+- 🔭 Estoy trabajando en this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-goliger//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ggoliger//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://portfolio-gabriel-goliger.vercel.app/ )  
