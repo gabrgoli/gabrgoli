@@ -3,8 +3,28 @@
 
 ### <div align="center">👋Hola, Soy FullStack Developer con formación en ingeniería electrónica y tengo experiencia trabajando en NodeJS, React, Redux y JavaScript, entre otras tecnologías del sector. Mi experiencia previa fue dedicada a la electrónica, pero decidí realizar un cambio profesional debido a que la programación y el desarrollo web fue lo que siempre me atrajo, por lo que ahora me encuentro enfocado 100% en la programación FullStack. En mi último proyecto descubrí la importancia del trabajo colaborativo, ya que me potencia y ayuda a crecer tanto profesional como personalmente 
 
-👨‍💻 Mis proyectos: https://portfolio-gabriel-goliger.vercel.app/ 📫 Contacto: email: ggoliger@yahoo.com WhatsApp: +5491144494024 Ubicacion: Abasto, Buenos Aires - Argentina. LinkedIn: https://www.linkedin.com/in/gabriel-goliger Github: https://www.github.com/gabrgoli</div>  
+👨‍💻 Mis proyectos: https://portfolio-gabriel-goliger.vercel.app/  
   
+  
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-goliger/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://portfolio-gabriel-goliger.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+WhatsApp: +5491144494024
+  
+  
+
+email: ggoliger@yahoo.com  
+  
+
+<br/>    
 
 <br/>  
 
@@ -56,28 +76,7 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-goliger/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/gabrgoli" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://portfolio-gabriel-goliger.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-WhatsApp: +5491144494024
-  
-  
-
-email: ggoliger@yahoo.com  
-  
-
-<br/>  
 
 
 ## Github Stats  
