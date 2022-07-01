@@ -20,7 +20,7 @@
   
   
 
-email: ggoliger@yahoo.com  
+<img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com  
   
 
 <br/>    
