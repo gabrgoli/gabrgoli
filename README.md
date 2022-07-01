@@ -11,11 +11,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
+  <div style="align:center";>
 <img src=./png-clipart-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-thumbnail.png width='30' style="margin-bottom: 5px;" />+5491144494024
+  </div>
   
 <img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com  
-  
 <img src=./portfolio.jpg width='30' style="margin-bottom: 5px;" /> Mis Proyectos: https://portfolio-gabriel-goliger.vercel.app/  
 <br/>    
 
