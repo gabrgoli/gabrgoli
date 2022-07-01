@@ -16,7 +16,7 @@
 </a>  
 </div>  
   
-<img src=https://fg.ull.es/empleo/wp-content/uploads/sites/6/2020/09/whatsapp_png.png width='30' style="margin-bottom: 5px;" />+5491144494024
+<img src=./whatsapp_png.png width='30' style="margin-bottom: 5px;" />+5491144494024
   
   
 
