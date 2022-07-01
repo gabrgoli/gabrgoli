@@ -11,13 +11,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-goliger/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://portfolio-gabriel-goliger.vercel.app/" target="_blank">
+<a href="https://portfolio-gabriel-goliger.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
-WhatsApp: +5491144494024
+<img src=https://fg.ull.es/empleo/wp-content/uploads/sites/6/2020/09/whatsapp_png.png width='30' style="margin-bottom: 5px;" />+5491144494024
   
   
 
@@ -36,7 +35,7 @@ email: ggoliger@yahoo.com
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
