@@ -27,53 +27,30 @@
 <div align="center">  
 
  <table>
-    <tr>
-        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></td>
-    </tr>
-    <tr>
-        <td> React </td>
-    </tr>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></td></tr>
+    <tr><td> React </td></tr>
 </table> 
   
   <table>
-    <tr>
-        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>
-    </tr>
-    <tr>
-        <td> HTML5 </td>
-    </tr>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td> </tr>
+    <tr><td> HTML5 </td></tr>
 </table>  
   <table>
-    <tr>
-        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
-    </tr>
-    <tr>
-        <td align="center"> C </td>
-    </tr>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td></tr>
+    <tr><td align="center"> C </td></tr>
 </table>  
   <table>
-    <tr>
-        <td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></td>
-    </tr>
-    <tr>
-        <td> JavaScript </td>
-    </tr>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></td</tr>
+    <tr><td> JavaScript </td></tr>
+</table>  
+    
+  <table>
+    <tr> <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></td> </tr>
+    <tr> <td align="center"> Java </td> </tr>
 </table>  
   <table>
-    <tr>
-        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></td>
-    </tr>
-    <tr>
-        <td align="center"> Java </td>
-    </tr>
-</table>  
-  <table>
-    <tr>
-        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50"  /></td>
-    </tr>
-    <tr>
-        <td align="center"> Arduino </td>
-    </tr>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50"  /></td></tr>
+    <tr><td align="center"> Arduino </td></tr>
 </table> 
   
 </div>
