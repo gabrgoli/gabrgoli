@@ -10,7 +10,7 @@
     <img src=./png-clipart-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-thumbnail.png width='30' style="margin-bottom: 5px;" />+5491144494024
 </a></div>
   
-<div> <img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com  </div>
+ <img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com 
 <div><a href="https://portfolio-gabriel-goliger.vercel.app" target="_blank">  
 <img src=./portfolio.jpg width='30' style="margin-bottom: 5px;" /> Mis Proyectos: https://portfolio-gabriel-goliger.vercel.app/ 
 </a></div> 
