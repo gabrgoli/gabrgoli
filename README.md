@@ -9,11 +9,14 @@
 <a href="https://wa.me/5491144494024?text=Hola%20Gabriel%20me%20ha%20interesado%20tu%20perfil" target="_blank">
     <img src=./png-clipart-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-thumbnail.png width='30' style="margin-bottom: 5px;" />+5491144494024
 </a>
-
 <img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com  
-<img src=./portfolio.jpg width='30' style="margin-bottom: 5px;" /> Mis Proyectos: https://portfolio-gabriel-goliger.vercel.app/  
+<a href="https://portfolio-gabriel-goliger.vercel.app" target="_blank">  
+<img src=./portfolio.jpg width='30' style="margin-bottom: 5px;" /> Mis Proyectos: https://portfolio-gabriel-goliger.vercel.app/ 
+</a> 
+<a href="https://www.linkedin.com/in/gabriel-goliger/" target="_blank">  
 <img src=./linkedin.png width='30' style="margin-bottom: 5px;" /> https://www.linkedin.com/in/gabriel-goliger/ 
-
+</a>
+  
 <br/>    
 
 <br/>  
