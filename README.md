@@ -20,6 +20,7 @@
 
 
 ## My Skill Set  
+  <div align="center">  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -102,12 +103,14 @@
     <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></td></tr>
     <tr><td align="center"> PostgreSQL </td></tr>
 </table> 
+  <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </td></tr>
+    <tr><td align="center"> MongoDB </td></tr>
+</table> 
   
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Diseño  
 <div align="center">  
@@ -132,7 +135,7 @@
 </td></tr></table>  
 
 <br/>  
-
+</div>
 
 
 
