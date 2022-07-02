@@ -9,7 +9,7 @@
   
  <link href='https://wa.me/5491144494024'>
   <div style="align:center";>
-    <img src=./png-clipart-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-thumbnail.png width='30' style="margin-bottom: 5px;" />+5491144494024
+    <img src=./WP.png width='30' style="margin-bottom: 5px;" />+5491144494024
   </div>
 </link>
 <img src=./yahoo.png width='30' style="margin-bottom: 5px;" /> ggoliger@yahoo.com  
