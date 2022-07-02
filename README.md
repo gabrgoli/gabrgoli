@@ -6,7 +6,7 @@
   
   
 ## Connect with me  
-<a href="https://wa.me/5491144494024?text=hola%me%interesa%tu%perfil" target="_blank">
+<a href="https://wa.me/5491144494024?text=Hola%20Gabriel%20me%20ha%20interesado%20tu%20perfil" target="_blank">
     <img src=./png-clipart-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-thumbnail.png width='30' style="margin-bottom: 5px;" />+5491144494024
 </a>
 
