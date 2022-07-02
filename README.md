@@ -24,27 +24,85 @@
 
 ### Frontend  
 <div align="center">  
+
+ <table>
+    <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></td>
+    </tr>
+    <tr>
+        <td> React </td>
+    </tr>
+</table> 
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+  <table>
+    <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>
+    </tr>
+    <tr>
+        <td> HTML5 </td>
+    </tr>
+</table>  
+  <table>
+    <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
+    </tr>
+    <tr>
+        <td align="center"> C </td>
+    </tr>
+</table>  
+  <table>
+    <tr>
+        <td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></td>
+    </tr>
+    <tr>
+        <td> JavaScript </td>
+    </tr>
+</table>  
+  <table>
+    <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></td>
+    </tr>
+    <tr>
+        <td align="center"> Java </td>
+    </tr>
+</table>  
+  <table>
+    <tr>
+        <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50"  /></td>
+    </tr>
+    <tr>
+        <td align="center"> Arduino </td>
+    </tr>
+</table> 
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+  
+
+<table>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"  /></td></tr>
+    <tr><td align="center"> Node.js </td></tr>
+</table> 
+  <table>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"  /></td></tr>
+    <tr><td align="center"> MySQL </td></tr>
+</table> 
+  <table>
+    <tr><td align="center"> Express </td></tr>
+</table> 
+  <table>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td></tr>
+    <tr><td align="center"> Github </td></tr>
+</table> 
+  <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></td></tr>
+    <tr><td align="center"> PostgreSQL </td></tr>
+</table> 
+  
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,12 +111,24 @@
 
 ### Diseño  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
+ 
+ <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50"   /></td></tr>
+    <tr><td align="center"> Illustrator </td></tr>
+</table>  
+   <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"  /></td></tr>
+    <tr><td align="center"> Figma </td></tr>
+</table>  
+   <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"  /></td></tr>
+    <tr><td align="center"> Photoshop </td></tr>
+</table>  
+   <table>
+    <tr><td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere" height="50"/></td></tr>
+    <tr><td align="center"> Premiere </td></tr>
+</table>  
 </div>
-
 </td></tr></table>  
 
 <br/>  
