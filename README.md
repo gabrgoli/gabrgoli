@@ -24,8 +24,8 @@
 
 
 ## My Skill Set  
-  <div align="center" width="100%">  
-<table><tr><td valign="top" width="33%">
+  <div align="center">  
+<table><tr><td valign="top" max-width="33%">
 
 ## Frontend  
 <div align="center" >  
@@ -62,7 +62,7 @@
   
 </div>
  </tr></td>
-</td><td valign="top" width="33%">
+</td><td valign="top" max-width="33%">
 
 ### Backend  
 <div align="center">  
@@ -100,7 +100,7 @@
    </tr></td>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" max-width="33%">
 
 ### Diseño  
 <div align="center">  
