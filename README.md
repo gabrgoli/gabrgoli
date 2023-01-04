@@ -133,8 +133,8 @@
 </div>
 
 <div>
-  <div>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30px"/>
+  <div style="border: 1px solid">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30px"/>
     <h1>Node.js</h1>
   </div>
 </div>
