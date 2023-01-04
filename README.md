@@ -70,7 +70,7 @@
 <tr><td>
   
 <table>
-    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30"  /></td></tr>
+    <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></td></tr>
     <tr><td align="center"> Node.js </td></tr>
 </table> 
   </td><td>
@@ -134,7 +134,7 @@
 
 <div>
   <div>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-                   wordmark.svg" alt="Node.js" height="30"  />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-                   wordmark.svg" alt="Node.js" height="30px"/>
     <h1>Node.js</h1>
   </div>
 </div>
